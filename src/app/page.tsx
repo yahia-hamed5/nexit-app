@@ -5,7 +5,6 @@ export default function Home() {
   // const [name,setName]=useState('yahia')
   return (
     <>
-      <Header></Header>
     </>
   );
 }
